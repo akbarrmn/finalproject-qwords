@@ -10,9 +10,10 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
     <!-- Styles -->
-    @vite('resources/css/app.css')
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 
 <body class="antialiased">
@@ -20,8 +21,13 @@
     @include('components.banner')
     @include('components.domain-checker')
     @include('components.package')
+    @include('components.solusi')
+    @include('components.komitmen')
+    @include('components.advertisement')
+    @include('components.customer')
 </body>
 
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 <script>
     function openCity(evt, cityName) {
         var i, tabcontent, tablinks;
@@ -36,6 +42,20 @@
         document.getElementById(cityName).style.display = "block";
         evt.currentTarget.className += " active";
     }
+</script>
+<script>
+    var swiper = new Swiper(".mySwiper", {
+        cssMode: true,
+        navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+        },
+        pagination: {
+        el: ".swiper-pagination",
+        },
+        mousewheel: true,
+        keyboard: true,
+    });
 </script>
 
 </html>
