@@ -1,9 +1,28 @@
-<div class="flex justify-center">
-    <div class="flex flex-col gap-5">
-        <h1 class="text-4xl font-bold">Telah Dipercaya oleh 45.000+ Pelanggan Aktif</h1>
-        <div class="flex gap-2">
-
+<div class="flex justify-center my-10">
+    <div class="flex flex-col gap-20">
+        <div class="flex flex-col items-center gap-10">
+            <h1 class="text-4xl font-bold">Telah Dipercaya oleh 45.000+ Pelanggan Aktif</h1>
+            <div class="flex gap-10 justify-center">
+                <img src="/assets/vendor/cimory.png" alt="cimory" class="max-w-[150px]">
+                <img src="/assets/vendor/forisa.png" alt="forisa" class="max-w-[150px]">
+                <img src="/assets/vendor/skin.png" alt="skin" class="max-w-[150px]">
+                <img src="/assets/vendor/icon.png" alt="icon" class="max-w-[150px]">
+                <img src="/assets/vendor/horison.png" alt="horison" class="max-w-[150px]">
+                <img src="/assets/vendor/md.png" alt="md" class="max-w-[150px]">
+            </div>
+            <p class="text-base font-bold cursor-pointer hover:text-blue-400 text-primary">Dan Masih Banyak yang lainnya -></p>
         </div>
-        <p class="text-base text-primary">Dan Masih Banyak yang lainnya -></p>
+        <div class="flex flex-col items-center gap-10">
+            <h1 class="text-4xl font-bold">Partner Kami</h1>
+            <div class="flex gap-10 justify-center">
+                <img src="/assets/vendor/google.png" alt="google" class="max-w-[150px]">
+                <img src="/assets/vendor/forisa.png" alt="forisa" class="max-w-[150px]">
+                <img src="/assets/vendor/skin.png" alt="skin" class="max-w-[150px]">
+                <img src="/assets/vendor/icon.png" alt="icon" class="max-w-[150px]">
+                <img src="/assets/vendor/horison.png" alt="horison" class="max-w-[150px]">
+                <img src="/assets/vendor/md.png" alt="md" class="max-w-[150px]">
+            </div>
+            <p class="text-base font-bold cursor-pointer hover:text-blue-400 text-primary">Dan Masih Banyak yang lainnya -></p>
+        </div>
     </div>
 </div>
