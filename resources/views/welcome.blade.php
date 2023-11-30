@@ -26,6 +26,8 @@
     @include('components.advertisement')
     @include('components.customer')
     @include('components.guaranted')
+    @include('components.testimonials')
+    @include('components.covered-method')
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>

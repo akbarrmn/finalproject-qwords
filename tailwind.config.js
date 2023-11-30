@@ -6,7 +6,11 @@ export default {
         "./resources/**/*.vue",
     ],
     theme: {
-        extend: {},
+        extend: {
+            content: {
+                captions: "url('./public/assets/images/capt.png')",
+            },
+        },
     },
     plugins: [require("daisyui")],
     daisyui: {
