@@ -9,17 +9,17 @@
         <div class="join h-12">
             <div>
                 <div>
-                    <input class="input input-bordered input-lg join-item" placeholder="Search" />
+                    <input class="input input-bordered input-lg join-item focus:outline-none" placeholder="Cari nama domain anda" />
                 </div>
             </div>
-            <select class="select select-lg select-bordered join-item">
+            <select class="select select-lg select-bordered join-item focus:outline-none">
                 <option disabled selected>Domain</option>
                 <option>.com</option>
                 <option>.id</option>
                 <option>.info</option>
             </select>
             <div class="indicator">
-                <button class="btn btn-lg bg-[#FE7062] text-[#fadad9] join-item">Search</button>
+                <button class="btn btn-lg bg-[#FE7062] text-[#fadad9] join-item focus:outline-none">Search</button>
             </div>
         </div>
     </div>

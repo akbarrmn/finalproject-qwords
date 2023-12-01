@@ -18,7 +18,7 @@
 
 <body class="antialiased">
     @include('components.navbar')
-    @include('components.banner')
+    @include('components.header')
     @include('components.domain-checker')
     @include('components.package')
     @include('components.solusi')
@@ -29,6 +29,8 @@
     @include('components.testimonials')
     @include('components.covered-method')
     @include('components.qna')
+    @include('components.contact')
+    @include('components.footer')
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
