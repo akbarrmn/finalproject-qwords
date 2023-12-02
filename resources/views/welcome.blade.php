@@ -31,6 +31,7 @@
     @include('components.qna')
     @include('components.contact')
     @include('components.footer')
+    @include('components.floating-ads')
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
@@ -62,6 +63,11 @@
         mousewheel: true,
         keyboard: true,
     });
+</script>
+<script>
+    var onCloseAds = () => {
+        document.getElementById('floating-ads').style.display = 'none';
+    }
 </script>
 
 </html>

@@ -16,6 +16,7 @@ export default {
             marquee2: "marquee2 25s linear infinite",
             reverseMarque: "reverseMarque 25s linear infinite",
             reverseMarque2: "reverseMarque2 25s linear infinite",
+            zoomIn: "zoomIn 1s ease-in-out infinite",
         },
         keyframes: {
             marquee: {
@@ -33,6 +34,12 @@ export default {
             reverseMarque2: {
                 "0%": { transform: "translateX(100%)" },
                 "100%": { transform: "translateX(0%)" },
+            },
+            zoomIn: {
+                "0%": { transform: "scale(0.9)" },
+                "25%": { transform: "scale(1)" },
+                "60%": { transform: "scale(0.9)" },
+                "100%": { transform: "scale(0.9)" },
             },
         },
     },

@@ -18,7 +18,7 @@
                         Ticket.
                     </p>
                 </div>
-                <img src="/assets/images/Perusahaan.png" alt="perusahaan"
+                <img src="/assets/commit/service24.png" alt="service24"
                     class="absolute right-0 bottom-[-25px] max-w-[180px] object-contain z-[-1]">
             </div>
         </swiper-slide>
@@ -31,7 +31,7 @@
                         website dan hosting. Dapat diakses dengan mudah dan solutif
                     </p>
                 </div>
-                <img src="/assets/images/Merchant.png" alt="merchant"
+                <img src="/assets/commit/panduan.png" alt="panduan"
                     class="absolute right-0 bottom-[-10px] max-w-[180px] object-contain z-[-1]">
             </div>
         </swiper-slide>
@@ -43,7 +43,7 @@
                         Uptime Network & Server di atas 99. 99% dengan konfigurasi server yang tepat. Didukung manajemen jaringan dan multiple upstream tier 1 provider network serta multiple peering.
                     </p>
                 </div>
-                <img src="/assets/images/Organization.png" alt="organisasi"
+                <img src="/assets/commit/uptime.png" alt="uptime"
                     class="absolute right-0 bottom-[-10px] max-w-[180px] object-contain z-[-1]">
             </div>
         </swiper-slide>
@@ -55,7 +55,7 @@
                         Keamanan menjadi fokus utama kami di Qwords. Tindakan pemantauan dan pencegahan yang berstandar & berkelanjutan telah menjadi perhatian utama kami.
                     </p>
                 </div>
-                <img src="/assets/images/School.png" alt="school"
+                <img src="/assets/commit/security.png" alt="security"
                     class="absolute right-0 bottom-[-10px] max-w-[180px] object-contain z-[-1]">
             </div>
         </swiper-slide>
@@ -67,7 +67,7 @@
                         DNS Server Cloud Hosting Qwords terhubung satu dengan yang lainnya. Hal ini membuat DNS Server akan selalu dapat di akses karena saling membackup antar server.
                     </p>
                 </div>
-                <img src="/assets/images/Developer.png" alt="developer"
+                <img src="/assets/commit/cluster.png" alt="cluster"
                     class="absolute right-0 bottom-[-10px] max-w-[180px] object-contain z-[-1]">
             </div>
         </swiper-slide>
@@ -79,7 +79,7 @@
                         Standar server Qwords adalah server kelas enterprise Dual Xeon Octa Core yang merupakan hardware kelas terbaik. Hardware ini biasa digunakan oleh perusahaan terkemuka.
                     </p>
                 </div>
-                <img src="/assets/images/Blogger.png" alt="blogger"
+                <img src="/assets/commit/best.png" alt="best"
                     class="absolute right-0 bottom-[-10px] max-w-[180px] object-contain z-[-1]">
             </div>
         </swiper-slide>
@@ -91,7 +91,7 @@
                         Tier 1 Network merupakan jaringan dunia tanpa transit network, yang membuat jaringan lebih cepat serta jalur routing yang lebih pendek dan ketersediaan backup network.
                     </p>
                 </div>
-                <img src="/assets/images/Blogger.png" alt="blogger"
+                <img src="/assets/commit/tier1.png" alt="tier1"
                     class="absolute right-0 bottom-[-10px] max-w-[180px] object-contain z-[-1]">
             </div>
         </swiper-slide>
@@ -103,7 +103,7 @@
                         Jaringan di Qwords terhubung langsung ke public peering seperti OpenIXP dan CDIX yang membuat latency atau waktu tunggu pengiriman data semakin kecil.
                     </p>
                 </div>
-                <img src="/assets/images/Blogger.png" alt="blogger"
+                <img src="/assets/commit/peering.png" alt="peering"
                     class="absolute right-0 bottom-[-10px] max-w-[180px] object-contain z-[-1]">
             </div>
         </swiper-slide>

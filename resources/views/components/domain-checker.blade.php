@@ -1,4 +1,4 @@
-<div class="bg-primary h-fit py-10 px-4 flex flex-col gap-8">
+<div class="bg-primary h-fit py-10 px-4 flex flex-col gap-5">
     <h1 class="text-3xl font-bold text-white text-center">Cari Nama Domainmu</h1>
     <div class="w-full flex justify-center">
         <p class="text-xl font-bold text-white text-center max-w-4xl">Nama Domain digunakan untuk mempermudah pengunjung
@@ -24,7 +24,7 @@
         </div>
     </div>
 
-    <div class="flex justify-center">
+    <div class="flex justify-center mt-5">
         <div class="flex flex-col justify-center w-full max-w-4xl lg:flex-row">
             <div class="flex flex-col gap-3 place-items-center">
                 <p class="text-white text-xl">.com</p>
